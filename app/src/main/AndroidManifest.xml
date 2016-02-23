@@ -7,8 +7,8 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/fuel_logo"
-        android:label="CarCalc"
+        android:icon="@mipmap/ic_logo_small"
+        android:label="snOS"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity

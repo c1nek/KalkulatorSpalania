@@ -10,7 +10,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/imagelogo"
         android:layout_gravity="center_horizontal"
-        android:src="@mipmap/fuel_logo"
+        android:src="@mipmap/ic_logo"
         android:layout_weight="0.34"
         android:layout_marginTop="30dp" />
 
